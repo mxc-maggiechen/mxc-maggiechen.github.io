@@ -1,6 +1,7 @@
 import React from 'react'
 import Dino from '../assets/mdi_dinosaur-pixel.png'
 import {TypeAnimation} from 'react-type-animation'
+import Resume from "../assets/files/Maggie Chen - Resume.pdf"
 
 const Home = () => {
   return (
@@ -31,14 +32,14 @@ const Home = () => {
                     Maggie Chen
                 </div>
                 <div className="flex">
-                    <a href="/"  style={{ zIndex: 2 }}>
+                    <a href={Resume} download="MaggieChen_Resume.pdf"  style={{ zIndex: 2 }}>
                         <button className='text-white font-ubuntu group  px-4 py-3 my-2 flex items-center bg-[#2D6198] hover:bg-[#3675B6]' style={{fontSize:'15px', marginRight:'40px'}}>
                             Download Resume
                         </button>
                     </a>
                     
 
-                    <a href="/contact"  style={{ zIndex: 2 }}>
+                    <a href="/#/contact"  style={{ zIndex: 2 }}>
                         <button className='text-white font-ubuntu group  px-10 py-3 my-2 flex items-center bg-[#2D6198] hover:bg-[#3675B6]' style={{fontSize:'15px'}}> Contact Me
                         </button>
                     </a>
