@@ -1,7 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bbe8e85.css",
-    "main.js": "/static/js/main.dc764f57.js",
+    "main.js": "/static/js/main.7cd3c790.js",
     "static/media/SignalVest.png": "/static/media/SignalVest.70bb2f50b4910f278115.png",
     "static/media/Zone.png": "/static/media/Zone.9761262232adbb867615.png",
     "static/media/Connect4.png": "/static/media/Connect4.56e440eea25fbe900aaf.png",
@@ -12,11 +11,9 @@
     "static/media/logos_java.png": "/static/media/logos_java.95424d59ef970e5fd4b1.png",
     "static/media/logos_react.png": "/static/media/logos_react.bab4e8ed1b692ba6b86a.png",
     "index.html": "/index.html",
-    "main.6bbe8e85.css.map": "/static/css/main.6bbe8e85.css.map",
-    "main.dc764f57.js.map": "/static/js/main.dc764f57.js.map"
+    "main.7cd3c790.js.map": "/static/js/main.7cd3c790.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bbe8e85.css",
-    "static/js/main.dc764f57.js"
+    "static/js/main.7cd3c790.js"
   ]
 }
