@@ -4,10 +4,10 @@ import { HashRouter } from "react-router-dom"; // Import BrowserRouter
 import App from './App';
 
 ReactDOM.render(
-  <HashRouter> {/* Set the basename to your repository name */}
-    <React.StrictMode>
+  <React.StrictMode>
+    <HashRouter>
       <App />
-    </React.StrictMode>
-  </HashRouter>,
+    </HashRouter>,
+  </React.StrictMode>
   document.getElementById('root')
 );
