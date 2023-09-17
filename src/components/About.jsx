@@ -47,7 +47,7 @@ export const About = () => {
                     </div>
                     <div>
                         Beyond the world of code, I have a diverse set of interests. I find solace in pencil sketching and find creativity in playing the piano. My fascination with AI and machine learning continues to grow as I explore their potential applications. 
-                        These interests, combined with my academic pursuits, reflect my commitment to lifelong learning and my eagerness to contribute meaningfully to the ever-evolving tech landscape.
+                        These interests, combined with my academic pursuits, reflect my commitment to lifelong learning and my eagerness to contribute to the ever-evolving tech landscape.
                     </div>
                 </div>
 
