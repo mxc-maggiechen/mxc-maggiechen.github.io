@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mxc-maggiechen/mxc-maggiechen.github.io/static/css/main.6bbe8e85.css",
+    "main.js": "/mxc-maggiechen/mxc-maggiechen.github.io/static/js/main.56562cd4.js",
+    "static/media/SignalVest.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/SignalVest.70bb2f50b4910f278115.png",
+    "static/media/Zone.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/Zone.9761262232adbb867615.png",
+    "static/media/Connect4.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/Connect4.56e440eea25fbe900aaf.png",
+    "static/media/Website.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/Website.514b83da867a2a66188e.png",
+    "static/media/logos_nodejs-icon-alt.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/logos_nodejs-icon-alt.b4275738115ee40c72a6.png",
+    "static/media/logos_python.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/logos_python.27d17dbc8c53460f43dc.png",
+    "static/media/logos_postgresql.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/logos_postgresql.b735b728ca1fe72d8476.png",
+    "static/media/logos_java.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/logos_java.95424d59ef970e5fd4b1.png",
+    "static/media/logos_react.png": "/mxc-maggiechen/mxc-maggiechen.github.io/static/media/logos_react.bab4e8ed1b692ba6b86a.png",
+    "index.html": "/mxc-maggiechen/mxc-maggiechen.github.io/index.html",
+    "main.6bbe8e85.css.map": "/mxc-maggiechen/mxc-maggiechen.github.io/static/css/main.6bbe8e85.css.map",
+    "main.56562cd4.js.map": "/mxc-maggiechen/mxc-maggiechen.github.io/static/js/main.56562cd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbe8e85.css",
+    "static/js/main.56562cd4.js"
+  ]
+}
