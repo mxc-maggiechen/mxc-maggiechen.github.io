@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.a615f1a0.js",
+    "main.js": "/static/js/main.362f6a2c.js",
     "static/media/SignalVest.png": "/static/media/SignalVest.70bb2f50b4910f278115.png",
     "static/media/Zone.png": "/static/media/Zone.9761262232adbb867615.png",
     "static/media/Connect4.png": "/static/media/Connect4.56e440eea25fbe900aaf.png",
@@ -11,9 +11,9 @@
     "static/media/logos_java.png": "/static/media/logos_java.95424d59ef970e5fd4b1.png",
     "static/media/logos_react.png": "/static/media/logos_react.bab4e8ed1b692ba6b86a.png",
     "index.html": "/index.html",
-    "main.a615f1a0.js.map": "/static/js/main.a615f1a0.js.map"
+    "main.362f6a2c.js.map": "/static/js/main.362f6a2c.js.map"
   },
   "entrypoints": [
-    "static/js/main.a615f1a0.js"
+    "static/js/main.362f6a2c.js"
   ]
 }
