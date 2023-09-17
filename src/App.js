@@ -2,7 +2,7 @@ import Home from "./components/Home";
 import NavbarH from "./components/NavbarH";
 import About from "./components/About"
 import Contact from "./components/Contact"
-import {Route, Routes} from 'react-router-dom';
+import {Route, Routes, Router} from 'react-router-dom';
 import Skills from "./components/Skills"
 import Projects from "./components/Projects"
 import Blog from "./components/Blog"

@@ -103,7 +103,7 @@ export const NavbarH = () => {
               </li>
 
               <li >
-              <a href='/about'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/about' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
+              <a href='/#/about'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/about' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
                   <img src={Cpp} alt="React icon" style={{ width: '16px', marginRight: '8px',  marginLeft:'1rem'}}/>
                   about.cpp
                 </a>
@@ -111,7 +111,7 @@ export const NavbarH = () => {
               </li>
 
               <li>
-              <a href='/skills'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/skills' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
+              <a href='/#/skills'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/skills' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
                   <img src={Python} alt="React icon" style={{ width: '16px', marginRight: '8px',  marginLeft:'1rem'}}/>
                   skills.py
                 </a>
@@ -119,21 +119,21 @@ export const NavbarH = () => {
               </li>
 
               <li>
-              <a href='/projects'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/projects' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
+              <a href='/#/projects'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/projects' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
                   <img src={Github} alt="React icon" style={{ width: '16px', marginRight: '8px',  marginLeft:'1rem'}}/>
                   .projects
                 </a>
                 
               </li>
               <li>
-              <a href='/blog'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/blog' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
+              <a href='/#/blog'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/blog' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
                   <img src={Javascript} alt="React icon" style={{ width: '16px', marginRight: '8px',  marginLeft:'1rem'}}/>
                   blog.js
                 </a>
                
               </li>
               <li>
-              <a href='/contact'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/contact' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
+              <a href='/#/contact'  className={`py-[0.15rem] flex items-center w-[16rem] ml-[-1rem] text-gray-300 mt-0 ${currentPage === '/contact' ? 'bg-[#37373C]' : 'bg-[#252526]'} hover:bg-[#37373C] `} style={{ fontSize: '14px', }}>
                   <img src={Contact} alt="React icon" style={{ width: '16px', marginRight: '8px',  marginLeft:'1rem'}}/>
                   contact.java
                 </a>
@@ -155,7 +155,7 @@ export const NavbarH = () => {
                 
             </li>
             <li className='ml-[-1.95rem]  mt-[1.7rem]'>
-              <a href="/about">
+              <a href="/#/about">
                 <div className={`nav-item flex items-center  py-2 px-4 ${currentPage === '/about' ? 'bg-[#1E1E1E]' : 'bg-[#2D2D2D]'}`}>
                   <img src={Cpp} alt="Cpp icon" style={{ width: '16px', marginRight: '8px'}} />
                   <span>about.cpp</span>
@@ -164,7 +164,7 @@ export const NavbarH = () => {
             </li>
 
             <li className='ml-[-1.95rem]  mt-[1.7rem]'>
-              <a href="/skills">
+              <a href="/#/skills">
                 <div className={`nav-item flex items-center  py-2 px-4 ${currentPage === '/skills' ? 'bg-[#1E1E1E]' : 'bg-[#2D2D2D]'}`}>
                 <img src={Python} alt="Cpp icon" style={{ width: '16px', marginRight: '8px'}} />
                 <span>skills.py</span>
@@ -174,7 +174,7 @@ export const NavbarH = () => {
             </li>
 
             <li className='ml-[-1.95rem]  mt-[1.7rem]'>
-              <a href="/projects">
+              <a href="/#/projects">
                 <div className={`nav-item flex items-center  py-2 px-4 ${currentPage === '/projects' ? 'bg-[#1E1E1E]' : 'bg-[#2D2D2D]'}`}>
                   <img src={Github} alt="Cpp icon" style={{ width: '16px', marginRight: '8px'}} />
                   <span>.projects</span>
@@ -183,7 +183,7 @@ export const NavbarH = () => {
             </li>
 
             <li className='ml-[-1.95rem]  mt-[1.7rem]'>
-              <a href="/blog">
+              <a href="/#/blog">
                 <div className={`nav-item flex items-center  py-2 px-4 ${currentPage === '/blog' ? 'bg-[#1E1E1E]' : 'bg-[#2D2D2D]'}`}>
                   <img src={Javascript} alt="Cpp icon" style={{ width: '16px', marginRight: '8px'}} />
                   <span>blog.js</span>
@@ -192,7 +192,7 @@ export const NavbarH = () => {
             </li>
 
             <li className='ml-[-1.95rem]  mt-[1.7rem]'>
-              <a href="/contact">
+              <a href="/#/contact">
                 <div className={`nav-item flex items-center  py-2 px-4 ${currentPage === '/contact' ? 'bg-[#1E1E1E]' : 'bg-[#2D2D2D]'}`}>
                   <img src={Contact} alt="Cpp icon" style={{ width: '16px', marginRight: '8px'}} />
                   <span>contact.java</span>

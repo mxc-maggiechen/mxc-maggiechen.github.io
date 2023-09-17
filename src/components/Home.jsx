@@ -2,7 +2,7 @@ import React from 'react'
 import Dino from '../assets/mdi_dinosaur-pixel.png'
 import {TypeAnimation} from 'react-type-animation'
 
-export const Home = () => {
+const Home = () => {
   return (
     <div className="h-screen w-screen bg-[#1E1E1E] text-gray-300 font-courier-prime min-h-screen">
         <div className="flex justify-center items-center ml-[8rem] ">
@@ -39,7 +39,7 @@ export const Home = () => {
                     
 
                     <a href="/contact"  style={{ zIndex: 2 }}>
-                        <button className='text-white font-ubuntu group  px-10 py-3 my-2 flex items-center bg-[#2D6198] hover:bg-[#3675B6]' style={{fontSize:'15px'}}> <a href="/contact">Contact Me</a>
+                        <button className='text-white font-ubuntu group  px-10 py-3 my-2 flex items-center bg-[#2D6198] hover:bg-[#3675B6]' style={{fontSize:'15px'}}> Contact Me
                         </button>
                     </a>
 

@@ -2,7 +2,7 @@ import React from 'react'
 import Dino from '../assets/mdi_dinosaur-pixel.png'
 import {TypeAnimation} from 'react-type-animation'
 
-export const About = () => {
+const About = () => {
   return (
     <div className="h-screen w-screen bg-[#1E1E1E] text-gray-300 font-courier-prime ">
         <div className="flex justify-center ml-[20rem] mt-[7rem] px-12">
