@@ -1,7 +1,7 @@
 import React from 'react'
 import Dino from '../assets/mdi_dinosaur-pixel.png'
 import {TypeAnimation} from 'react-type-animation'
-import Resume from "../assets/files/Maggie Chen - Resume.pdf"
+import Resume from "../assets/files/2A - Maggie Chen - Resume.pdf"
 
 const Home = () => {
   return (
