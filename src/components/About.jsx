@@ -26,7 +26,7 @@ const About = () => {
                         My name is Maggie Chen: 
                     </div>
                     <div>
-                        2nd year Software Engineering Student at the University of Waterloo 
+                        3rd year Software Engineering Student at the University of Waterloo 
                     </div>
                 </div>
 
@@ -35,9 +35,8 @@ const About = () => {
                         My Journey
                     </div>
                     <div>
-                    I'm a second-year undergraduate student at the University of Waterloo, on a mission to carve out a path in the software industry. Along my academic journey, I've been captivated by the realms of full-stack web development and artificial intelligence.
-                    Recently, I embarked on my first co-op adventure with SnapPea Design, where I wore the hat of a Software Engineer. My time there involved crafting full-stack React applications, diving into IoT projects, and exploring the intricate world of machine learning. 
-                    This experience ignited my passion for technology and broadened my skill set, leaving me eager for what's next.
+                    I'm a third-year undergraduate student at the University of Waterloo, on a mission to carve out a path in the software industry. Along my academic journey, I've been captivated by the realms of full-stack web development and artificial intelligence.
+                   
                     </div>
                 </div>
 
